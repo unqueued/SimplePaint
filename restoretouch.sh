@@ -1,0 +1,10 @@
+touch -h -t 200802282304.19 \.
+touch -h -t 200802282304.06 \.\/AboutFrame\.java
+touch -h -t 200802282304.06 \.\/Brush\.java
+touch -h -t 200802282304.01 \.\/ContentPanel\.java
+touch -h -t 200802282304.05 \.\/hello\.png
+touch -h -t 200802282304.20 \.\/Makefile
+touch -h -t 200802282304.01 \.\/PaintFrame\.java
+touch -h -t 201806012331.38 \.\/restoretouch\.sh
+touch -h -t 200802282304.44 \.\/screenshot\.png
+touch -h -t 200802282304.01 \.\/SimplePaint\.java
