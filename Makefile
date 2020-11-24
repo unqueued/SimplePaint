@@ -1,9 +1,6 @@
 NAME=SimplePaint
 JC = javac
 JFLAGS = -g
-OPT = -O3
-WARN = -Wall
-MANIFEST=manifest.txt
 
 default:
 	$(JC) $(JFLAGS) *.java
