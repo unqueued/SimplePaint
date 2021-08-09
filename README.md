@@ -13,4 +13,4 @@ java -jar SimplePaint.jar
 
 ## Screenshots
 
-![screenshot](https://raw.githubusercontent.com/unqueued/SimplePaint/master/screenshot.png)
+![screenshot](screenshot.png)
